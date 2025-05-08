@@ -6,7 +6,7 @@ const Footer: React.FC = () => {
     <footer className="w-full bg-gray-900 border-t border-gray-800 py-4 px-6">
       <div className="flex justify-center space-x-6">
         <a 
-          href="https://github.com/claudiosoares" 
+          href="https://github.com/claudiojas" 
           target="_blank" 
           rel="noopener noreferrer"
           className="text-gray-400 hover:text-white transition-colors"
@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
           <Github size={24} />
         </a>
         <a 
-          href="https://linkedin.com/in/claudiosoares" 
+          href="https://www.linkedin.com/in/claudio-soares-dev/" 
           target="_blank" 
           rel="noopener noreferrer"
           className="text-gray-400 hover:text-white transition-colors"
