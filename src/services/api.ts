@@ -1,4 +1,4 @@
-const API_URL = ' http://localhost:3000/task';
+const API_URL = 'https://mini-assistant.onrender.com/task';
 
 export const sendMessage = async (text: string ): Promise<string> => {
   try {
